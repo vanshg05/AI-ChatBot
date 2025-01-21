@@ -1,0 +1,10 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+langchain==0.0.300
+langchain-google-genai==0.0.1
+langchain-core==0.0.1
+langsmith==0.0.1
+streamlit==1.20.0
+speechrecognition==3.8.1
+pyttsx3==2.9
+pydantic==1.10.0
